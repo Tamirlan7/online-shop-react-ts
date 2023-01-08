@@ -1,0 +1,15 @@
+.button {
+    padding: 15px 25px;
+    background: transparent;
+    border: 1px solid teal;
+    color: teal;
+    font-family: 'Montserrat';
+}
+
+.button:hover {
+    transition: .4s ease;
+    box-shadow: -1px 3px 4px 1px #000;
+    border: 1px solid transparent;
+    color: #fff;
+    background: teal;
+}

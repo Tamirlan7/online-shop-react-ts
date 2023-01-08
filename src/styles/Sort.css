@@ -1,0 +1,27 @@
+#sort {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+input {
+    margin-bottom: 15px;
+    padding: 5px 40px;
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+select {
+    font-family: 'Montserrat', 'sans-serif';
+    padding: 5px 20px;
+    font-weight: 600;
+}
+
+#search {
+    text-align: center;
+}
+
+#search > h4 {
+    margin-bottom: 10px;
+}

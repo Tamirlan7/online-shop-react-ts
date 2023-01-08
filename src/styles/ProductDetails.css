@@ -1,0 +1,32 @@
+.product__details {
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    color: #000;
+}
+
+.description {
+    width: 60%; 
+}
+
+.product {
+    width: 30%;
+}
+.product__image__block {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.product__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.product__price {
+    margin: 5px 0 10px;
+}
